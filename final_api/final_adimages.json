@@ -1,0 +1,116 @@
+﻿{
+  "success": true,
+  "data": {
+    "AdImages": [
+      {
+        "AdImageHash": "-niEF_AZiFA5NG_VC2qX_Q",
+        "Name": "finindi_rsya_05_v3",
+        "Associated": "YES",
+        "Type": "REGULAR"
+      },
+      {
+        "AdImageHash": "5j5CMKqWt8MZwEC6UqkExw",
+        "Name": "invest-guide conceptB 16x9 (разворот гида)",
+        "Associated": "NO",
+        "Type": "WIDE"
+      },
+      {
+        "AdImageHash": "7hSmxSTZPvvtGhCon5RWpQ",
+        "Name": "ad_prompt_a29998cf8c505afbb1cf7a5f9a5084a8d48adeff",
+        "Associated": "YES",
+        "Type": "REGULAR"
+      },
+      {
+        "AdImageHash": "AVZN3rpsQ9WU2cOZyVmoOA",
+        "Name": "finindi_rsya_02_v3",
+        "Associated": "YES",
+        "Type": "REGULAR"
+      },
+      {
+        "AdImageHash": "Eysdpx7O8OM1p22hxYqFdg",
+        "Name": "finindi_rsya_03_v3",
+        "Associated": "YES",
+        "Type": "REGULAR"
+      },
+      {
+        "AdImageHash": "FhRl1EhWcsCdL0rKDkRd_w",
+        "Name": "finindi_rsya_01_1080x607_v3",
+        "Associated": "YES",
+        "Type": "WIDE"
+      },
+      {
+        "AdImageHash": "JeNhHqPPnn-RYPe1DoZoWg",
+        "Name": "invest-guide conceptA 4x3 (карта узлов)",
+        "Associated": "NO",
+        "Type": "REGULAR"
+      },
+      {
+        "AdImageHash": "LLMMeFhPEsHZRB0TdMHaww",
+        "Name": "invest-guide conceptA 1x1 (карта узлов)",
+        "Associated": "NO",
+        "Type": "REGULAR"
+      },
+      {
+        "AdImageHash": "MhhBDilioA14Gbr2dTcZEA",
+        "Name": "invest-guide conceptA 16x9 (карта узлов)",
+        "Associated": "NO",
+        "Type": "WIDE"
+      },
+      {
+        "AdImageHash": "OT4ENAJLnh4lgOtEUniqRA",
+        "Name": "finindi_rsya_05_1440x1080.png",
+        "Associated": "NO",
+        "Type": "REGULAR"
+      },
+      {
+        "AdImageHash": "V6hLqCvQ9IglqAKmqlybvg",
+        "Name": "finindi_rsya_04_v3",
+        "Associated": "YES",
+        "Type": "REGULAR"
+      },
+      {
+        "AdImageHash": "VYywOmnNTaxYMaL_ihvYOg",
+        "Name": "ad_prompt_40aa534a5e16597dc019ee8b3a21e08c19e1e32f",
+        "Associated": "YES",
+        "Type": "REGULAR"
+      },
+      {
+        "AdImageHash": "YtawsMSXsYXJp9JTL2sBew",
+        "Name": "invest-guide conceptB 4x3 (разворот гида)",
+        "Associated": "NO",
+        "Type": "REGULAR"
+      },
+      {
+        "AdImageHash": "aPTzcRerUUWKAgXnm892oQ",
+        "Name": "ad_prompt_aab67fab3b5befe63bb0340bb8fc40b09c6158c2",
+        "Associated": "YES",
+        "Type": "REGULAR"
+      },
+      {
+        "AdImageHash": "ifZN9D9zRBGO_SGcozog3w",
+        "Name": "finindi_rsya_01_1080x607.png",
+        "Associated": "NO",
+        "Type": "WIDE"
+      },
+      {
+        "AdImageHash": "s1KV3HUPIGPeRPGBCA4Vjg",
+        "Name": "finindi_rsya_03_1080x1080.png",
+        "Associated": "NO",
+        "Type": "REGULAR"
+      },
+      {
+        "AdImageHash": "v-vsujnOaLil_o1vRM2igA",
+        "Name": "finindi_rsya_02_600x600.png",
+        "Associated": "NO",
+        "Type": "REGULAR"
+      },
+      {
+        "AdImageHash": "ydKQBeUG4Z8QbEO1xkG-AA",
+        "Name": "finindi_rsya_04_1080x1350.png",
+        "Associated": "NO",
+        "Type": "REGULAR"
+      }
+    ]
+  },
+  "units": "33/157671/160000"
+}

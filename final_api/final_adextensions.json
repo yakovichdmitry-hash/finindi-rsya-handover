@@ -1,0 +1,68 @@
+﻿{
+  "success": true,
+  "data": {
+    "AdExtensions": [
+      {
+        "Id": 45339213,
+        "Associated": "YES",
+        "Type": "CALLOUT",
+        "Callout": {
+          "CalloutText": "20+ показателей"
+        },
+        "Status": "ACCEPTED",
+        "StatusClarification": ""
+      },
+      {
+        "Id": 45339214,
+        "Associated": "YES",
+        "Type": "CALLOUT",
+        "Callout": {
+          "CalloutText": "Формула + пример"
+        },
+        "Status": "ACCEPTED",
+        "StatusClarification": ""
+      },
+      {
+        "Id": 45339215,
+        "Associated": "YES",
+        "Type": "CALLOUT",
+        "Callout": {
+          "CalloutText": "PDF 490 руб"
+        },
+        "Status": "ACCEPTED",
+        "StatusClarification": ""
+      },
+      {
+        "Id": 45339216,
+        "Associated": "YES",
+        "Type": "CALLOUT",
+        "Callout": {
+          "CalloutText": "Excel 990 руб"
+        },
+        "Status": "ACCEPTED",
+        "StatusClarification": ""
+      },
+      {
+        "Id": 45340727,
+        "Associated": "YES",
+        "Type": "CALLOUT",
+        "Callout": {
+          "CalloutText": "Гид 490 ₽"
+        },
+        "Status": "ACCEPTED",
+        "StatusClarification": ""
+      },
+      {
+        "Id": 45340728,
+        "Associated": "YES",
+        "Type": "CALLOUT",
+        "Callout": {
+          "CalloutText": "Эксель-шаблон 990 ₽"
+        },
+        "Status": "ACCEPTED",
+        "StatusClarification": ""
+      }
+    ]
+  },
+  "units": "11/157625/160000"
+}
