@@ -1,0 +1,92 @@
+﻿Запрос выполнен, но Директ отклонил 1 объект:
+  - элемент 17 (код 5005): Field set incorrectly: Invalid value: 205824076537
+
+Ответ API целиком:
+{
+  "success": true,
+  "data": {
+    "DeleteResults": [
+      {
+        "Id": 58517140778,
+        "Errors": []
+      },
+      {
+        "Id": 58517140779,
+        "Errors": []
+      },
+      {
+        "Id": 58517140780,
+        "Errors": []
+      },
+      {
+        "Id": 58517140781,
+        "Errors": []
+      },
+      {
+        "Id": 58517140782,
+        "Errors": []
+      },
+      {
+        "Id": 58517140783,
+        "Errors": []
+      },
+      {
+        "Id": 58517140784,
+        "Errors": []
+      },
+      {
+        "Id": 58517140785,
+        "Errors": []
+      },
+      {
+        "Id": 58517140786,
+        "Errors": []
+      },
+      {
+        "Id": 58517140787,
+        "Errors": []
+      },
+      {
+        "Id": 58517140788,
+        "Errors": []
+      },
+      {
+        "Id": 58517140789,
+        "Errors": []
+      },
+      {
+        "Id": 58517140790,
+        "Errors": []
+      },
+      {
+        "Id": 58517140791,
+        "Errors": []
+      },
+      {
+        "Id": 58517140792,
+        "Errors": []
+      },
+      {
+        "Id": 58517140793,
+        "Errors": []
+      },
+      {
+        "Errors": [
+          {
+            "Code": 5005,
+            "Message": "Field set incorrectly",
+            "Details": "Invalid value: 205824076537"
+          }
+        ]
+      }
+    ]
+  },
+  "units": "46/159048/160000"
+}
+node : Assertion failed: !(handle->flags & UV_HANDLE_CLOSING), file src\win\async.c, line 94
+строка:11 знак:39
++ ... words ==="; node mcp_call.js $mcp token yandex_direct_keywords_delete ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Assertion faile...sync.c, line 94:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 

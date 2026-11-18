@@ -1,0 +1,32 @@
+﻿{
+  "success": true,
+  "dry_run": true,
+  "note": "Предпросмотр: запрос собран, но НЕ отправлен в API Яндекс.Директа. Ничего не создано и не изменено. Повторите вызов без dry_run, чтобы применить.",
+  "request": {
+    "url": "https://api.direct.yandex.com/json/v501/campaigns",
+    "service": "campaigns",
+    "method": "update",
+    "client_login": "porg-j4y5weak",
+    "params": {
+      "Campaigns": [
+        {
+          "Id": 716189770,
+          "TextCampaign": {
+            "BiddingStrategy": {
+              "Search": {
+                "BiddingStrategyType": "SERVING_OFF"
+              },
+              "Network": {
+                "BiddingStrategyType": "WB_MAXIMUM_CONVERSION_RATE",
+                "WbMaximumConversionRate": {
+                  "WeeklySpendLimit": 5250000000,
+                  "GoalId": "683156691"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

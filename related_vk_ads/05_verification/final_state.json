@@ -1,0 +1,46 @@
+{
+ "plan": {
+  "budget_limit_day": 750,
+  "date_end": null,
+  "date_start": "2026-11-13",
+  "delivery": "not_delivering",
+  "id": 42017182,
+  "issues": [
+   {
+    "arguments": {},
+    "code": "STOPPED",
+    "message": "The ad plan is stopped."
+   }
+  ],
+  "name": "Finindi — VK Ads — основной тест",
+  "objective": "site_conversions",
+  "status": "blocked"
+ },
+ "group": {
+  "ad_plan_id": 42017182,
+  "budget_limit_day": 750,
+  "date_end": null,
+  "date_start": "2026-11-13",
+  "enable_utm": true,
+  "id": 168570772,
+  "name": "Основная аудитория · собственники, руководители, финансы",
+  "objective": "site_conversions",
+  "package_id": 3232,
+  "package_priced_event_type": 1,
+  "status": "blocked",
+  "utm": "utm_source=vk_ads&utm_medium=cpc&utm_campaign=finindi_vk&utm_content={{banner_id}}"
+ },
+ "banner": {
+  "count": 1,
+  "items": [
+   {
+    "id": 252858750,
+    "moderation_status": "pending",
+    "name": "cr_karta_600x600_v1",
+    "ord_marker": "",
+    "status": "blocked"
+   }
+  ],
+  "offset": 0
+ }
+}

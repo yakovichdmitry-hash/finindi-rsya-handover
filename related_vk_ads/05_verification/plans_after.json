@@ -1,0 +1,206 @@
+{
+  "count": 25,
+  "items": [
+    {
+      "event_limit": -1,
+      "id": 31805964,
+      "name": "Реклама strategy12.ru",
+      "uniq_shows_limit": -1,
+      "uniq_shows_period": "day",
+      "yclients_salon_id": null
+    },
+    {
+      "event_limit": -1,
+      "id": 31814465,
+      "name": "Strategy12 — книга для бизнеса",
+      "uniq_shows_limit": -1,
+      "uniq_shows_period": "day",
+      "yclients_salon_id": null
+    },
+    {
+      "event_limit": -1,
+      "id": 33381413,
+      "name": "Strategy12 | Холодный трафик | Сайт (клики)",
+      "uniq_shows_limit": -1,
+      "uniq_shows_period": "day",
+      "yclients_salon_id": null
+    },
+    {
+      "event_limit": -1,
+      "id": 35916390,
+      "name": "Strategy12 | Вход-квиз | цель quiz_start",
+      "uniq_shows_limit": -1,
+      "uniq_shows_period": "day",
+      "yclients_salon_id": null
+    },
+    {
+      "event_limit": -1,
+      "id": 36076508,
+      "name": "S12 Смарт-кампания 2026-10-17",
+      "uniq_shows_limit": -1,
+      "uniq_shows_period": "day",
+      "yclients_salon_id": null
+    },
+    {
+      "event_limit": -1,
+      "id": 36253937,
+      "name": "B + A3 Широкая и Финрешения (Лента + Боковая)",
+      "uniq_shows_limit": -1,
+      "uniq_shows_period": "day",
+      "yclients_salon_id": null
+    },
+    {
+      "event_limit": -1,
+      "id": 36487181,
+      "name": "I Интерес «Малый бизнес»",
+      "uniq_shows_limit": -1,
+      "uniq_shows_period": "day",
+      "yclients_salon_id": null
+    },
+    {
+      "event_limit": -1,
+      "id": 36545113,
+      "name": "C Все три критерия",
+      "uniq_shows_limit": -1,
+      "uniq_shows_period": "day",
+      "yclients_salon_id": null
+    },
+    {
+      "event_limit": -1,
+      "id": 36819665,
+      "name": "S Соцхарактеристики (ИП, владельцы, топ)",
+      "uniq_shows_limit": -1,
+      "uniq_shows_period": "day",
+      "yclients_salon_id": null
+    },
+    {
+      "event_limit": -1,
+      "id": 36819669,
+      "name": "U Сегмент (пользовательская аудитория)",
+      "uniq_shows_limit": -1,
+      "uniq_shows_period": "day",
+      "yclients_salon_id": null
+    },
+    {
+      "event_limit": -1,
+      "id": 37175944,
+      "name": "P1 Ленты и боковые (тест площадок, аудитория S)",
+      "uniq_shows_limit": -1,
+      "uniq_shows_period": "day",
+      "yclients_salon_id": null
+    },
+    {
+      "event_limit": -1,
+      "id": 37175961,
+      "name": "P2 Видео, клипы, истории (тест площадок, аудитория S)",
+      "uniq_shows_limit": -1,
+      "uniq_shows_period": "day",
+      "yclients_salon_id": null
+    },
+    {
+      "event_limit": -1,
+      "id": 37175975,
+      "name": "P3 Игры и приложения (тест площадок, аудитория S)",
+      "uniq_shows_limit": -1,
+      "uniq_shows_period": "day",
+      "yclients_salon_id": null
+    },
+    {
+      "event_limit": -1,
+      "id": 37175989,
+      "name": "P4 Нативная и боковые партнёров (тест площадок, аудитория S)",
+      "uniq_shows_limit": -1,
+      "uniq_shows_period": "day",
+      "yclients_salon_id": null
+    },
+    {
+      "event_limit": -1,
+      "id": 37288595,
+      "name": "P4a ВК нативная (тест площадок, аудитория S)",
+      "uniq_shows_limit": -1,
+      "uniq_shows_period": "day",
+      "yclients_salon_id": null
+    },
+    {
+      "event_limit": -1,
+      "id": 37288679,
+      "name": "P4b Проекты VK нативная + боковая (тест площадок, аудитория S)",
+      "uniq_shows_limit": -1,
+      "uniq_shows_period": "day",
+      "yclients_salon_id": null
+    },
+    {
+      "event_limit": -1,
+      "id": 37288758,
+      "name": "P4c Рекламная сеть нативная + боковая (тест площадок, аудитория S)",
+      "uniq_shows_limit": -1,
+      "uniq_shows_period": "day",
+      "yclients_salon_id": null
+    },
+    {
+      "event_limit": -1,
+      "id": 37514545,
+      "name": "P4a-v2 ВК нативная → ads2 (тест страницы, аудитория S)",
+      "uniq_shows_limit": -1,
+      "uniq_shows_period": "day",
+      "yclients_salon_id": null
+    },
+    {
+      "event_limit": -1,
+      "id": 37514559,
+      "name": "P4b-v2 Проекты VK нативная + боковая → ads2 (тест страницы, аудитория S)",
+      "uniq_shows_limit": -1,
+      "uniq_shows_period": "day",
+      "yclients_salon_id": null
+    },
+    {
+      "event_limit": -1,
+      "id": 37557048,
+      "name": "P4b-v3 Проекты VK нативная + боковая → ads3 (модалка, тест формы)",
+      "uniq_shows_limit": -1,
+      "uniq_shows_period": "day",
+      "yclients_salon_id": null
+    },
+    {
+      "event_limit": -1,
+      "id": 39541117,
+      "name": "S12 — РК моя",
+      "uniq_shows_limit": -1,
+      "uniq_shows_period": "day",
+      "yclients_salon_id": null
+    },
+    {
+      "event_limit": -1,
+      "id": 40327442,
+      "name": "S12 — РК Click",
+      "uniq_shows_limit": -1,
+      "uniq_shows_period": "day",
+      "yclients_salon_id": null
+    },
+    {
+      "event_limit": -1,
+      "id": 40947271,
+      "name": "S12 — Ретаргетинг · были на сайте",
+      "uniq_shows_limit": -1,
+      "uniq_shows_period": "day",
+      "yclients_salon_id": null
+    },
+    {
+      "event_limit": -1,
+      "id": 41696534,
+      "name": "Смарт-кампания 2026-11-17",
+      "uniq_shows_limit": -1,
+      "uniq_shows_period": "day",
+      "yclients_salon_id": null
+    },
+    {
+      "event_limit": -1,
+      "id": 42017182,
+      "name": "Finindi — VK Ads — основной тест",
+      "uniq_shows_limit": -1,
+      "uniq_shows_period": "day",
+      "yclients_salon_id": null
+    }
+  ],
+  "offset": 0
+}

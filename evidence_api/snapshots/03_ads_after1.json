@@ -1,0 +1,124 @@
+﻿{
+  "success": true,
+  "data": {
+    "Ads": [
+      {
+        "Id": "1926852107866445313",
+        "CampaignId": 716189770,
+        "AdGroupId": 5824076522,
+        "Status": "DRAFT",
+        "State": "OFF",
+        "Type": "RESPONSIVE_AD",
+        "ResponsiveAd": {
+          "Texts": [
+            {
+              "Text": "20+ показателей: формула, пример, бенчмарк отрасли. Получите PDF-гид.",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Text": "Вся карта инвестпоказателей и их связей. 490 ₽ разово, без подписки. Забрать гид.",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Text": "Окупаемость проекта: формулы и примеры на пальцах. Откройте гид: 20+ показателей.",
+              "Status": "ACCEPTED"
+            }
+          ],
+          "Titles": [
+            {
+              "Title": "Инвестиционные показатели — один PDF",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Title": "20+ показателей, 5 блоков",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Title": "NPV, IRR, окупаемость — с примерами",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Title": "Что это, формула, пример, бенчмарк",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Title": "Срок окупаемости проекта — посчитайте",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Title": "Гид инвестпоказателей за 490 ₽",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Title": "Не помните формулу NPV? Она в гиде",
+              "Status": "ACCEPTED"
+            }
+          ],
+          "Href": "https://example.com/invest-guide?utm_source=yandex&utm_medium=cpc&utm_campaign={campaign_id}&utm_content={ad_id}&utm_term={keyword}",
+          "DisplayUrlPath": "invest-guide",
+          "BusinessId": null,
+          "SitelinkSetId": 1524666560
+        }
+      },
+      {
+        "Id": "1926852060621781747",
+        "CampaignId": 716189770,
+        "AdGroupId": 5824076537,
+        "Status": "DRAFT",
+        "State": "OFF",
+        "Type": "RESPONSIVE_AD",
+        "ResponsiveAd": {
+          "Texts": [
+            {
+              "Text": "Окупаемость, точка безубыточности, юнит-экономика — формулы и примеры в гиде.",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Text": "Считаете кофейню или пекарню? 20+ показателей с примерами и бенчмарками.",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Text": "Не вкладывайте вслепую: карта показателей для первой точки. Скачайте за 490 ₽.",
+              "Status": "ACCEPTED"
+            }
+          ],
+          "Titles": [
+            {
+              "Title": "Окупаемость кофейни: посчитайте верно",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Title": "Франшиза: посчитайте до покупки",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Title": "Бизнес кофейни: точка безубыточности",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Title": "Сколько окупается пекарня? Считайте",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Title": "Юнит-экономика точки: формулы и примеры",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Title": "Гид инвестпоказателей за 490 ₽",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Title": "Первая точка? Разберитесь в показателях",
+              "Status": "ACCEPTED"
+            }
+          ],
+          "Href": "https://example.com/invest-guide?utm_source=yandex&utm_medium=cpc&utm_campaign={campaign_id}&utm_content={ad_id}&utm_term={keyword}",
+          "DisplayUrlPath": "invest-guide",
+          "BusinessId": null,
+          "SitelinkSetId": 1524666560
+        }
+      }
+    ]
+  },
+  "units": "17/159160/160000"
+}

@@ -1,0 +1,124 @@
+﻿{
+  "success": true,
+  "data": {
+    "Ads": [
+      {
+        "Id": "1927387179186786366",
+        "CampaignId": 716189770,
+        "AdGroupId": 5824076522,
+        "Status": "DRAFT",
+        "State": "OFF",
+        "Type": "RESPONSIVE_AD",
+        "ResponsiveAd": {
+          "Texts": [
+            {
+              "Text": "Гид + Excel-калькулятор: 14 листов, 459 формул. Комплект 990 ₽.",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Text": "20+ показателей: формулы, примеры, готовые расчёты. Комплект 990 ₽.",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Text": "Считайте окупаемость и эффективность в Excel. Гид + шаблон, 990 ₽.",
+              "Status": "ACCEPTED"
+            }
+          ],
+          "Titles": [
+            {
+              "Title": "20+ инвестиционных показателей без воды",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Title": "Гид + Excel: считайте свои показатели",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Title": "NPV, IRR, ROI — формулы и примеры в гиде",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Title": "Комплект: гид 67 стр. + Excel 14 листов",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Title": "459 формул и 14 листов Excel в комплекте",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Title": "Гид с Excel-шаблоном — 990 ₽",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Title": "Посчитайте окупаемость в своём Excel",
+              "Status": "ACCEPTED"
+            }
+          ],
+          "Href": "https://finindi.ru/?utm_source=yandex&utm_medium=cpc&utm_campaign=finindi_rsya_invest&utm_content={ad_id}&utm_term={keyword}",
+          "DisplayUrlPath": "excel",
+          "BusinessId": null,
+          "SitelinkSetId": 1526525176
+        }
+      },
+      {
+        "Id": "1927387190999659155",
+        "CampaignId": 716189770,
+        "AdGroupId": 5824076522,
+        "Status": "DRAFT",
+        "State": "OFF",
+        "Type": "RESPONSIVE_AD",
+        "ResponsiveAd": {
+          "Texts": [
+            {
+              "Text": "20+ показателей: объяснение, формула, пример, ориентир. PDF-гид, 490 ₽.",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Text": "Формулы, примеры и ориентиры в одном PDF-гиде. 67 страниц, 490 ₽.",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Text": "Разберитесь в NPV, IRR и ROI без учебников. Гид за 490 ₽.",
+              "Status": "ACCEPTED"
+            }
+          ],
+          "Titles": [
+            {
+              "Title": "20+ инвестиционных показателей без воды",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Title": "Формулы, примеры и ориентиры в одном гиде",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Title": "NPV, IRR, ROI — на пальцах, с примерами",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Title": "Практический гид по инвестпоказателям",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Title": "67 страниц: показатели, формулы, примеры",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Title": "PDF-гид с формулами и примерами — 490 ₽",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Title": "Гид инвестпоказателей за 490 ₽",
+              "Status": "ACCEPTED"
+            }
+          ],
+          "Href": "https://finindi.ru/?utm_source=yandex&utm_medium=cpc&utm_campaign=finindi_rsya_invest&utm_content={ad_id}&utm_term={keyword}",
+          "DisplayUrlPath": "gid",
+          "BusinessId": null,
+          "SitelinkSetId": 1526525176
+        }
+      }
+    ]
+  },
+  "units": "17/158555/160000"
+}

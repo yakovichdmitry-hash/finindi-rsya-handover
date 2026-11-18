@@ -1,0 +1,123 @@
+{
+  "count": 1,
+  "items": [
+    {
+      "content": {
+        "icon_256x256": {
+          "flags": [],
+          "id": 133960746,
+          "text_percent": null,
+          "type": "static",
+          "variants": {
+            "100x100": {
+              "height": 100,
+              "media_type": "image",
+              "size": 2608,
+              "url": "https://r.mradx.net/imgs/2b/d7/412f1716c699722f.png",
+              "width": 100
+            },
+            "256x256": {
+              "height": 256,
+              "media_type": "image",
+              "size": 9919,
+              "url": "https://r.mradx.net/imgs/c1/9c/449d672868e95f00.png",
+              "width": 256
+            },
+            "50x50": {
+              "height": 50,
+              "media_type": "image",
+              "size": 1212,
+              "url": "https://r.mradx.net/imgs/7b/04/5e681e28d8e9254e.png",
+              "width": 50
+            },
+            "original": {
+              "height": 256,
+              "media_type": "image",
+              "size": 9919,
+              "url": "https://r.mradx.net/imgs/c1/9c/449d672868e95f00.png",
+              "width": 256
+            },
+            "uploaded": {
+              "height": 256,
+              "media_type": "image",
+              "size": 9919,
+              "url": "https://r.mradx.net/oimg/c1/9c/449d672868e9.png",
+              "width": 256
+            }
+          }
+        },
+        "image_600x600": {
+          "flags": [],
+          "id": 133960892,
+          "text_percent": null,
+          "type": "static",
+          "variants": {
+            "original": {
+              "height": 600,
+              "media_type": "image",
+              "size": 112559,
+              "url": "https://r.mradx.net/imgs/ec/01/b13da31128316f7e.png",
+              "width": 600
+            },
+            "uploaded": {
+              "height": 600,
+              "media_type": "image",
+              "size": 112559,
+              "url": "https://r.mradx.net/oimg/ec/01/b13da3112831.png",
+              "width": 600
+            }
+          }
+        }
+      },
+      "id": 252858750,
+      "issues": [
+        {
+          "arguments": {},
+          "code": "STOPPED",
+          "message": "The banner is stopped."
+        },
+        {
+          "arguments": {},
+          "code": "ON_MODERATION",
+          "message": "The banner is on moderation."
+        }
+      ],
+      "moderation_status": "pending",
+      "name": "cr_karta_600x600_v1",
+      "status": "blocked",
+      "textblocks": {
+        "cta_sites_full": {
+          "text": "buy",
+          "title": ""
+        },
+        "text_90": {
+          "text": "Собственнику и директору: формулы, примеры, ориентиры. Гид 490 ₽ или комплект 990 ₽.",
+          "title": ""
+        },
+        "text_long": {
+          "text": "Практический справочник для предпринимателей, собственников и руководителей: 20+ инвестиционных и финансовых показателей — объяснение, формула, пример расчёта и ориентир. ROI, NPV, IRR, DSCR, маржинальность, ROE, ROA, EBITDA. PDF-гид, 67 страниц — 490 ₽. Комплект: гид + Excel-шаблон, 14 листов и 459 формул — 990 ₽. Информационно-справочный материал, не инвестиционная рекомендация.",
+          "title": ""
+        },
+        "title_40_vkads": {
+          "text": "Инвестиционные показатели без воды",
+          "title": ""
+        }
+      },
+      "urls": {
+        "primary": {
+          "id": 135461900,
+          "preview_link": "",
+          "url": "https://finindi.ru/",
+          "url_object_id": "finindi.ru",
+          "url_object_type": "domain",
+          "url_types": [
+            "external_new",
+            "external",
+            "netloc_url"
+          ]
+        }
+      }
+    }
+  ],
+  "offset": 0
+}

@@ -1,0 +1,12 @@
+﻿{
+  "success": true,
+  "data": {
+    "AddResults": [
+      {
+        "AdImageHash": "ydKQBeUG4Z8QbEO1xkG-AA",
+        "Errors": []
+      }
+    ]
+  },
+  "units": "40/158737/160000"
+}

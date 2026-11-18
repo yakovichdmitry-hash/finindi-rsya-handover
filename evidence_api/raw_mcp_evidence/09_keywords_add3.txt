@@ -1,0 +1,44 @@
+﻿Запрос выполнен, но Директ вернул 3 предупреждения — часть параметров могла не примениться:
+  - элемент 1 (код 10140): Keyword already exists
+  - элемент 2 (код 10140): Keyword already exists
+  - элемент 3 (код 10140): Keyword already exists
+
+Ответ API целиком:
+{
+  "success": true,
+  "data": {
+    "AddResults": [
+      {
+        "Id": 58517075092,
+        "Warnings": [
+          {
+            "Code": 10140,
+            "Message": "Keyword already exists"
+          }
+        ],
+        "Errors": []
+      },
+      {
+        "Id": 58517075092,
+        "Warnings": [
+          {
+            "Code": 10140,
+            "Message": "Keyword already exists"
+          }
+        ],
+        "Errors": []
+      },
+      {
+        "Id": 58517075097,
+        "Warnings": [
+          {
+            "Code": 10140,
+            "Message": "Keyword already exists"
+          }
+        ],
+        "Errors": []
+      }
+    ]
+  },
+  "units": "26/159119/160000"
+}

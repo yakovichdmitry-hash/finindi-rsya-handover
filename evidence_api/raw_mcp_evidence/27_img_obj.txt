@@ -1,0 +1,8 @@
+﻿Ошибка: Не передано ни одного изменяемого поля
+node : Assertion failed: !(handle->flags & UV_HANDLE_CLOSING), file src\win\async.c, line 94
+строка:1 знак:1127
++ ... ($false))); node mcp_call.js $mcp token yandex_direct_ads_update "@$v ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Assertion faile...sync.c, line 94:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 

@@ -1,0 +1,26 @@
+{
+  "call_to_action": null,
+  "category": "",
+  "id": 252858750,
+  "issues": [
+    {
+      "arguments": {},
+      "code": "STOPPED",
+      "message": "The banner is stopped."
+    },
+    {
+      "arguments": {},
+      "code": "ON_MODERATION",
+      "message": "The banner is on moderation."
+    }
+  ],
+  "moderation_status": "pending",
+  "name": "cr_karta_600x600_v1",
+  "ord_marker": "",
+  "preview_image": "https://d.mradx.net/50x50/rbstor/imgs/fc/c8/f239c06f49a49eed.png",
+  "settings": {
+    "is_collage_format_select": true
+  },
+  "status": "blocked",
+  "vk_preview_link": null
+}

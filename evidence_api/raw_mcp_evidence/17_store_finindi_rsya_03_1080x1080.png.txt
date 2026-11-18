@@ -1,0 +1,14 @@
+﻿{
+  "id": "p-llZWwKUwMEKr9eyMzP4w",
+  "url": "https://storage.aihub.click.ru/f/p-llZWwKUwMEKr9eyMzP4w/finindi_rsya_03_1080x1080.png",
+  "filename": "finindi_rsya_03_1080x1080.png",
+  "content_type": "image/png",
+  "size": 194462,
+  "sha256": "ddf014ccfd422dcc7eae5ebb37811909190bf954225da5af07e16841d835a601",
+  "created_at": "2026-11-18T16:25:47.568Z",
+  "expires_at": "2026-11-18T18:25:47.568Z",
+  "expires_in_sec": 7200,
+  "downloads": 0,
+  "reused": false,
+  "note": "Ссылка публичная и временная: после expires_at файл удаляется. Передайте её потребителю сразу, не сохраняйте надолго."
+}

@@ -1,0 +1,14 @@
+{
+  "count": 1,
+  "items": [
+    {
+      "delivery": "not_delivering",
+      "id": 252858750,
+      "moderation_reasons": [],
+      "moderation_status": "pending",
+      "name": "cr_karta_600x600_v1",
+      "status": "blocked"
+    }
+  ],
+  "offset": 0
+}

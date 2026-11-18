@@ -1,0 +1,21 @@
+﻿Запрос к API Яндекс.Директа отклонён (код 8000).
+Причина: Invalid request
+Подробности: Ads.ResponsiveAd.AdImageHashes cannot contain an array
+Баллы API: потрачено 50, осталось 44617443 из 45900000
+Что делать: Некорректный запрос: неверный формат или недопустимое значение. Текст ниже называет конкретное поле.
+
+Ответ API целиком:
+{
+  "success": false,
+  "error_code": 8000,
+  "error_message": "Invalid request",
+  "error_detail": "Ads.ResponsiveAd.AdImageHashes cannot contain an array",
+  "units": "50/44617443/45900000"
+}
+node : Assertion failed: !(handle->flags & UV_HANDLE_CLOSING), file src\win\async.c, line 94
+строка:1 знак:726
++ ... ($false))); node mcp_call.js $mcp token yandex_direct_ads_update "@$f ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Assertion faile...sync.c, line 94:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 

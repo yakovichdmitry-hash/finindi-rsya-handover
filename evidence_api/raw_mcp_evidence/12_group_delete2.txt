@@ -1,0 +1,12 @@
+﻿{
+  "success": true,
+  "data": {
+    "DeleteResults": [
+      {
+        "Id": 5824076537,
+        "Errors": []
+      }
+    ]
+  },
+  "units": "10/159038/160000"
+}

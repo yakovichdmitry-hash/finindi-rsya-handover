@@ -1,0 +1,28 @@
+﻿Запрос выполнен, но Директ отклонил 1 объект:
+  - элемент 1 (код 8301): Not possible to delete object: Cannot delete a group containing ads or impressions criteria
+
+Ответ API целиком:
+{
+  "success": true,
+  "data": {
+    "DeleteResults": [
+      {
+        "Errors": [
+          {
+            "Code": 8301,
+            "Message": "Not possible to delete object",
+            "Details": "Cannot delete a group containing ads or impressions criteria"
+          }
+        ]
+      }
+    ]
+  },
+  "units": "30/159610/160000"
+}
+node : Assertion failed: !(handle->flags & UV_HANDLE_CLOSING), file src\win\async.c, line 94
+строка:1 знак:497
++ ... oup 2 ==="; node mcp_call.js $mcp token yandex_direct_adgroups_delete ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Assertion faile...sync.c, line 94:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 

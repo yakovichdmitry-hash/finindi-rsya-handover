@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "id": 680197,
+      "status": "active",
+      "system_status": "active",
+      "access_status": "full",
+      "name": "Стратегия в условиях неопределённости  Дмитрий Якович",
+      "counter_id": 3795996,
+      "created": "2026-09-21 15:51:55",
+      "working": true,
+      "flags": [
+        "show_autogoals",
+        "auto_site_checker"
+      ],
+      "email": "yakovich@yandex.ru",
+      "is_slice": false
+    },
+    {
+      "id": 699399,
+      "status": "active",
+      "system_status": "active",
+      "access_status": "full",
+      "name": "finindi.ru",
+      "counter_id": 3816402,
+      "created": "2026-11-18 16:25:15",
+      "working": false,
+      "flags": [
+        "show_autogoals",
+        "auto_site_checker"
+      ],
+      "email": "yakovich@yandex.ru",
+      "is_slice": false
+    }
+  ]
+}

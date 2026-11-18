@@ -1,0 +1,34 @@
+﻿{
+  "success": true,
+  "data": {
+    "ad_group_id": "5824076522",
+    "keyword_id": 205824076522,
+    "created": false,
+    "applied": {
+      "AutotargetingSettings": {
+        "Categories": {
+          "Exact": "YES",
+          "Narrow": "YES",
+          "Alternative": "YES",
+          "Accessory": "NO",
+          "Broader": "NO"
+        },
+        "BrandOptions": {
+          "WithoutBrands": "YES",
+          "WithAdvertiserBrand": "NO",
+          "WithCompetitorsBrand": "NO"
+        }
+      }
+    },
+    "api": {
+      "updated": {
+        "UpdateResults": [
+          {
+            "Id": 205824076522,
+            "Errors": []
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "autobidding_mode": null,
+  "budget_limit": null,
+  "budget_limit_day": 750,
+  "date_end": null,
+  "date_start": "2026-11-13",
+  "delivery": "not_delivering",
+  "id": 42017182,
+  "issues": [
+    {
+      "arguments": {},
+      "code": "STOPPED",
+      "message": "The ad plan is stopped."
+    }
+  ],
+  "name": "Finindi — VK Ads — основной тест",
+  "objective": "site_conversions",
+  "status": "blocked",
+  "vkads_status": {
+    "codes": [
+      "AD_PLAN_STOPPED"
+    ],
+    "major_status": "STOPPED",
+    "status": "STOPPED"
+  }
+}

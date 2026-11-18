@@ -1,0 +1,169 @@
+{
+  "count": 1,
+  "items": [
+    {
+      "call_to_action": null,
+      "content": {
+        "icon_256x256": {
+          "flags": [],
+          "id": 133960746,
+          "text_percent": null,
+          "type": "static",
+          "variants": {
+            "100x100": {
+              "height": 100,
+              "media_type": "image",
+              "size": 2608,
+              "url": "https://r.mradx.net/imgs/2b/d7/412f1716c699722f.png",
+              "width": 100
+            },
+            "256x256": {
+              "height": 256,
+              "media_type": "image",
+              "size": 9919,
+              "url": "https://r.mradx.net/imgs/c1/9c/449d672868e95f00.png",
+              "width": 256
+            },
+            "50x50": {
+              "height": 50,
+              "media_type": "image",
+              "size": 1212,
+              "url": "https://r.mradx.net/imgs/7b/04/5e681e28d8e9254e.png",
+              "width": 50
+            },
+            "original": {
+              "height": 256,
+              "media_type": "image",
+              "size": 9919,
+              "url": "https://r.mradx.net/imgs/c1/9c/449d672868e95f00.png",
+              "width": 256
+            },
+            "uploaded": {
+              "height": 256,
+              "media_type": "image",
+              "size": 9919,
+              "url": "https://r.mradx.net/oimg/c1/9c/449d672868e9.png",
+              "width": 256
+            }
+          }
+        },
+        "image_600x600": {
+          "flags": [],
+          "id": 133960745,
+          "text_percent": null,
+          "type": "static",
+          "variants": {
+            "240x240": {
+              "height": 240,
+              "media_type": "image",
+              "size": 38623,
+              "url": "https://r.mradx.net/imgs/45/c5/f2cc61213c62d821.png",
+              "width": 240
+            },
+            "256x256": {
+              "height": 256,
+              "media_type": "image",
+              "size": 42728,
+              "url": "https://r.mradx.net/imgs/37/b6/b3c02f3f594edb85.png",
+              "width": 256
+            },
+            "300x300": {
+              "height": 300,
+              "media_type": "image",
+              "size": 51257,
+              "url": "https://r.mradx.net/imgs/6c/b6/5ba779d417303bee.png",
+              "width": 300
+            },
+            "480x480": {
+              "height": 480,
+              "media_type": "image",
+              "size": 95729,
+              "url": "https://r.mradx.net/imgs/e4/9d/1cd82bc556ca8523.png",
+              "width": 480
+            },
+            "600x600": {
+              "height": 600,
+              "media_type": "image",
+              "size": 106170,
+              "url": "https://r.mradx.net/imgs/fc/c8/f239c06f49a49eed.png",
+              "width": 600
+            },
+            "90x90": {
+              "height": 90,
+              "media_type": "image",
+              "size": 9212,
+              "url": "https://r.mradx.net/imgs/83/d5/209d2d35b245fce9.png",
+              "width": 90
+            },
+            "original": {
+              "height": 600,
+              "media_type": "image",
+              "size": 106170,
+              "url": "https://r.mradx.net/imgs/fc/c8/f239c06f49a49eed.png",
+              "width": 600
+            },
+            "uploaded": {
+              "height": 600,
+              "media_type": "image",
+              "size": 106170,
+              "url": "https://r.mradx.net/oimg/fc/c8/f239c06f49a4.png",
+              "width": 600
+            }
+          }
+        }
+      },
+      "delivery": "not_delivering",
+      "id": 252858750,
+      "issues": [
+        {
+          "arguments": {},
+          "code": "STOPPED",
+          "message": "The banner is stopped."
+        },
+        {
+          "arguments": {},
+          "code": "ON_MODERATION",
+          "message": "The banner is on moderation."
+        }
+      ],
+      "moderation_reasons": [],
+      "moderation_status": "pending",
+      "name": "cr_karta_600x600_v1",
+      "ord_marker": "",
+      "status": "blocked",
+      "textblocks": {
+        "cta_sites_full": {
+          "text": "buy",
+          "title": ""
+        },
+        "text_90": {
+          "text": "Собственнику и директору: формулы, примеры, ориентиры. Гид 490 ₽ или комплект 990 ₽.",
+          "title": ""
+        },
+        "text_long": {
+          "text": "Практический справочник для предпринимателей, собственников и руководителей: 20+ инвестиционных и финансовых показателей — объяснение, формула, пример расчёта и ориентир. ROI, NPV, IRR, DSCR, маржинальность, ROE, ROA, EBITDA. PDF-гид, 67 страниц — 490 ₽. Комплект: гид + Excel-шаблон, 14 листов и 459 формул — 990 ₽. Информационно-справочный материал, не инвестиционная рекомендация.",
+          "title": ""
+        },
+        "title_40_vkads": {
+          "text": "Инвестиционные показатели без воды",
+          "title": ""
+        }
+      },
+      "urls": {
+        "primary": {
+          "id": 135461900,
+          "preview_link": "",
+          "url": "https://finindi.ru/",
+          "url_object_id": "finindi.ru",
+          "url_object_type": "domain",
+          "url_types": [
+            "external",
+            "external_new",
+            "netloc_url"
+          ]
+        }
+      }
+    }
+  ],
+  "offset": 0
+}
