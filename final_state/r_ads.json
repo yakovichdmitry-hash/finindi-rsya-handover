@@ -1,0 +1,66 @@
+﻿{
+  "success": true,
+  "data": {
+    "Ads": [
+      {
+        "Id": "1927407045557746307",
+        "CampaignId": 716189770,
+        "AdGroupId": 5824076522,
+        "Status": "DRAFT",
+        "State": "OFF",
+        "Type": "RESPONSIVE_AD",
+        "ResponsiveAd": {
+          "Texts": [
+            {
+              "Text": "20+ показателей: объяснение, формула, пример, ориентир. Гид 490 ₽.",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Text": "Комплект 990 ₽ — 4 файла: гид, Эксель-шаблон, руководство и промпт-пак.",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Text": "Разберитесь в NPV, IRR и ROI без учебников. Гид за 490 ₽.",
+              "Status": "ACCEPTED"
+            }
+          ],
+          "Titles": [
+            {
+              "Title": "20+ инвестиционных показателей без воды",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Title": "NPV, IRR, ROI — формулы и примеры в гиде",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Title": "Гид 490 ₽ или комплект с Эксель-шаблоном 990 ₽",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Title": "Комплект: гид, Эксель-шаблон, руководство, промпт-пак",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Title": "67 страниц: показатели, формулы, примеры",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Title": "459 формул и 14 листов Эксель-шаблона",
+              "Status": "ACCEPTED"
+            },
+            {
+              "Title": "Считайте окупаемость в своём Экселе",
+              "Status": "ACCEPTED"
+            }
+          ],
+          "Href": "https://finindi.ru/?utm_source=yandex&utm_medium=cpc&utm_campaign=finindi_rsya_invest&utm_content={ad_id}&utm_term={keyword}",
+          "DisplayUrlPath": "gid",
+          "BusinessId": null,
+          "SitelinkSetId": 1526528192
+        }
+      }
+    ]
+  },
+  "units": "16/155954/160000"
+}

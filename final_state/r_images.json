@@ -1,0 +1,38 @@
+﻿{
+  "success": true,
+  "data": {
+    "AdImages": [
+      {
+        "AdImageHash": "mm9gUBdyMQOOcCgAAkwEng",
+        "Name": "finindi_rsya_01_v4",
+        "Associated": "YES",
+        "Type": "WIDE"
+      },
+      {
+        "AdImageHash": "Bd_Vgp7s03auRO9nMRZp9w",
+        "Name": "finindi_rsya_02_v4",
+        "Associated": "YES",
+        "Type": "REGULAR"
+      },
+      {
+        "AdImageHash": "eMIeSwfO-Eh3v7i7L0QW8w",
+        "Name": "finindi_rsya_03_v4",
+        "Associated": "YES",
+        "Type": "REGULAR"
+      },
+      {
+        "AdImageHash": "w6KJ2kMA6T1qXMtXM-pWsA",
+        "Name": "finindi_rsya_04_v5",
+        "Associated": "YES",
+        "Type": "REGULAR"
+      },
+      {
+        "AdImageHash": "D2kQOj-yLcvJPK3cHztXyg",
+        "Name": "finindi_rsya_05_v4",
+        "Associated": "YES",
+        "Type": "REGULAR"
+      }
+    ]
+  },
+  "units": "20/155934/160000"
+}
