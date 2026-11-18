@@ -1,0 +1,18 @@
+﻿{
+  "success": true,
+  "data": {
+    "source": "click.ru",
+    "accounts": [
+      {
+        "client_login": "porg-j4y5weak",
+        "name": "Реклама вакансий",
+        "account_id": 667762,
+        "currency": "RUB",
+        "balance": 0,
+        "created_type": "CREATED",
+        "status": "ACTIVE",
+        "state": "ACTIVE"
+      }
+    ]
+  }
+}
