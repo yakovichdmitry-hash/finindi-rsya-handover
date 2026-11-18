@@ -1,0 +1,45 @@
+﻿{
+  "success": true,
+  "data": {
+    "Campaigns": [
+      {
+        "Id": 716189770,
+        "Name": "invest-guide-EPK-RSYa",
+        "StartDate": "2026-11-20",
+        "Type": "UNIFIED_CAMPAIGN",
+        "Status": "DRAFT",
+        "State": "OFF",
+        "Statistics": {
+          "Clicks": 0,
+          "Impressions": 0
+        },
+        "DailyBudget": null,
+        "EndDate": null,
+        "UnifiedCampaign": {
+          "BiddingStrategy": {
+            "Search": {
+              "BiddingStrategyType": "SERVING_OFF"
+            },
+            "Network": {
+              "BiddingStrategyType": "WB_MAXIMUM_CONVERSION_RATE",
+              "WbMaximumConversionRate": {
+                "GoalId": 683156691,
+                "WeeklySpendLimit": 5250000000,
+                "BudgetType": "WEEKLY_BUDGET",
+                "BidCeiling": null
+              }
+            }
+          },
+          "PriorityGoals": null,
+          "CounterIds": {
+            "Items": [
+              114312327
+            ]
+          },
+          "AttributionModel": "AUTO"
+        }
+      }
+    ]
+  },
+  "units": "11/155524/160000"
+}

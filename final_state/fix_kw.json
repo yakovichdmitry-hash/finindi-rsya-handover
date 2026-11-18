@@ -1,0 +1,1229 @@
+﻿{
+  "success": true,
+  "data": {
+    "Keywords": [
+      {
+        "Id": 58517075082,
+        "Keyword": "roi -формула -расчет",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58517075092,
+        "Keyword": "npv -формула -расчет -рассчитать",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58517075093,
+        "Keyword": "финансовая модель -проект -расчет -предприятие -excel",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58517075094,
+        "Keyword": "рентабельность продаж -расчет -формула -анализ -рассчитать",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58517075095,
+        "Keyword": "ставка дисконтирования -рассчитать -формула -расчет",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58517075097,
+        "Keyword": "irr -расчет -формула",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58517075098,
+        "Keyword": "рентабельность формула -коэффициент -продажа -показатель",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58517075100,
+        "Keyword": "срок окупаемости -оборудование -формула -вложение -расчет -инвестиция -рассчитать",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58517075104,
+        "Keyword": "окупаемость проекта -расчет",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58517075106,
+        "Keyword": "инвестиционная привлекательность",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58517075112,
+        "Keyword": "оценка инвестиционного проекта -анализ -риск",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58517075118,
+        "Keyword": "инвестиционные показатели -расчет",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58517075119,
+        "Keyword": "финансовый рычаг -формула",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58517075123,
+        "Keyword": "индекс доходности",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58517075129,
+        "Keyword": "дисконтирование денежных потоков",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58517075130,
+        "Keyword": "внутренняя норма доходности",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58517075137,
+        "Keyword": "рентабельность инвестиций",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58517075152,
+        "Keyword": "чистый дисконтированный доход",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58517075161,
+        "Keyword": "npv формула",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58517075162,
+        "Keyword": "npv расчет",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58517075175,
+        "Keyword": "ebitda расчет",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58517075177,
+        "Keyword": "roi формула",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58517075178,
+        "Keyword": "ebitda формула",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58517075182,
+        "Keyword": "irr формула",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58517075226,
+        "Keyword": "irr простыми словами",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58572271310,
+        "Keyword": "ebitda что это -расчет -формула",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062168,
+        "Keyword": "чдд",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062169,
+        "Keyword": "приведенная стоимость -формула -расчет -таблица -пример",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062170,
+        "Keyword": "окупаемость -таблица -оборудование -инвестиция -вложение -рассчитать -бизнес -формула -производство -расчет -проект -аренда -срок -посчитать",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062171,
+        "Keyword": "дисконтирование -формула -расчет -рассчитать -ставка -таблица",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062172,
+        "Keyword": "экономика проекта",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062174,
+        "Keyword": "приведенная стоимость таблица",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062175,
+        "Keyword": "внд",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062177,
+        "Keyword": "точка безубыточности -формула -расчет -рассчитать",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062179,
+        "Keyword": "показатели рентабельности -формула -расчет",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062180,
+        "Keyword": "финмодель",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062181,
+        "Keyword": "норма прибыли",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062182,
+        "Keyword": "оценка эффективности проекта -показатель",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062183,
+        "Keyword": "рентабельность расчет -продажа -показатель",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062184,
+        "Keyword": "инвестиционный анализ -проект",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062185,
+        "Keyword": "маржа простыми словами",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062187,
+        "Keyword": "доходность инвестиций",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062188,
+        "Keyword": "рентабельность бизнеса",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062189,
+        "Keyword": "рентабельность простыми словами",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062190,
+        "Keyword": "окупаемость бизнеса",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062191,
+        "Keyword": "коэффициент рентабельности -формула",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062192,
+        "Keyword": "ддп",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062193,
+        "Keyword": "норма доходности -внутренний -показатель",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062194,
+        "Keyword": "эффективность инвестиций -показатель",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062195,
+        "Keyword": "окупаемость инвестиций -срок",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062196,
+        "Keyword": "рентабельность анализ -продажа",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062197,
+        "Keyword": "внутренняя доходность -норма -показатель",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062198,
+        "Keyword": "рентабельность продаж формула",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062199,
+        "Keyword": "выгоден ли бизнес",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062200,
+        "Keyword": "окупаемость расчет -проект -срок",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062201,
+        "Keyword": "рентабельность проекта",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062205,
+        "Keyword": "ebitda простыми словами",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062206,
+        "Keyword": "дисконтирование расчет -ставка",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062208,
+        "Keyword": "валовая рентабельность",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062209,
+        "Keyword": "финансовые показатели расчет",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062210,
+        "Keyword": "маржа формула",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062211,
+        "Keyword": "точка безубыточности расчет",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062212,
+        "Keyword": "операционный рычаг",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062213,
+        "Keyword": "рентабельность как рассчитать -продажа",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062214,
+        "Keyword": "дисконтированный денежный поток",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062215,
+        "Keyword": "срок окупаемости инвестиций",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062216,
+        "Keyword": "дисконтирование формула -ставка",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062217,
+        "Keyword": "точка безубыточности формула",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062218,
+        "Keyword": "анализ инвестиционного проекта -оценка",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062219,
+        "Keyword": "окупаемость формула -срок",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062220,
+        "Keyword": "окупаемость вложений -срок",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062221,
+        "Keyword": "финансовые показатели таблица",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062223,
+        "Keyword": "финансовые показатели что это -формула -таблица -расчет",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062224,
+        "Keyword": "приведенная стоимость пример",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062225,
+        "Keyword": "денежный поток расчет",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062226,
+        "Keyword": "маржа расчет",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062228,
+        "Keyword": "рентабельность пример",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062229,
+        "Keyword": "ставка дисконтирования расчет",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062230,
+        "Keyword": "инвестиционный проект расчет",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062231,
+        "Keyword": "запас финансовой прочности",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062232,
+        "Keyword": "финансовая модель проекта",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062233,
+        "Keyword": "будущая стоимость денег",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062234,
+        "Keyword": "приведенная стоимость расчет",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062236,
+        "Keyword": "денежный поток формула",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062237,
+        "Keyword": "срок окупаемости расчет",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062238,
+        "Keyword": "стоимость денег во времени",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062239,
+        "Keyword": "дисконтирование простыми словами -ставка",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062240,
+        "Keyword": "эффективность инвестиций показатели",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062241,
+        "Keyword": "индекс рентабельности",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062242,
+        "Keyword": "срок окупаемости формула",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062243,
+        "Keyword": "оценка эффективности проекта показатели",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062244,
+        "Keyword": "показатели эффективности инвестиционного проекта",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062245,
+        "Keyword": "показатели рентабельности расчет",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062246,
+        "Keyword": "финансовые показатели формула",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062247,
+        "Keyword": "финансовая модель расчет",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062250,
+        "Keyword": "рентабельность таблица",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062251,
+        "Keyword": "срок окупаемости вложений",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062253,
+        "Keyword": "рентабельность продаж расчет",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062254,
+        "Keyword": "окупаемость как рассчитать -срок",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062256,
+        "Keyword": "roi расчет",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062257,
+        "Keyword": "окупаемость как посчитать",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062260,
+        "Keyword": "irr расчет",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062262,
+        "Keyword": "показатели рентабельности формула",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062263,
+        "Keyword": "приведенная стоимость формула",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062264,
+        "Keyword": "npv простыми словами",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062265,
+        "Keyword": "маржа как рассчитать",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062266,
+        "Keyword": "окупаемость проекта расчет",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062267,
+        "Keyword": "ставка дисконтирования формула",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062268,
+        "Keyword": "экономическая оценка инвестиций",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062269,
+        "Keyword": "денежный поток что это -дисконтировать -расчет -дисконтирование -формула -прогноз",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062270,
+        "Keyword": "дисконтирование как рассчитать -ставка",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062271,
+        "Keyword": "норма доходности показатели",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062273,
+        "Keyword": "внутренняя доходность показатели",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062274,
+        "Keyword": "дисконтирование таблица",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062275,
+        "Keyword": "оценка рисков инвестиционного проекта",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062276,
+        "Keyword": "коэффициент рентабельности формула",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062279,
+        "Keyword": "финансовый рычаг формула",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062281,
+        "Keyword": "финансовая модель предприятия",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062282,
+        "Keyword": "roi простыми словами",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062283,
+        "Keyword": "точка безубыточности как рассчитать",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062284,
+        "Keyword": "оценка инвестиционного проекта анализ",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062285,
+        "Keyword": "npv как рассчитать",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062286,
+        "Keyword": "инвестиционные показатели расчет",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062288,
+        "Keyword": "ставка дисконтирования как рассчитать",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062292,
+        "Keyword": "срок окупаемости оборудования",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062293,
+        "Keyword": "точка безубыточности простыми словами",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062294,
+        "Keyword": "ставка дисконтирования простыми словами",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062295,
+        "Keyword": "срок окупаемости как рассчитать",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062296,
+        "Keyword": "прогноз денежных потоков",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062297,
+        "Keyword": "окупаемость таблица",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062299,
+        "Keyword": "рентабельность продаж анализ",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062300,
+        "Keyword": "рентабельность продаж как рассчитать",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 58573062301,
+        "Keyword": "финансовая модель в excel",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 300000,
+        "State": "ON",
+        "Status": "ACCEPTED"
+      },
+      {
+        "Id": 205824076522,
+        "Keyword": "---autotargeting",
+        "AdGroupId": 5824076522,
+        "CampaignId": 716189770,
+        "Bid": 30000000,
+        "AutotargetingSearchBidIsAuto": "NO",
+        "State": "ON",
+        "Status": "ACCEPTED",
+        "AutotargetingSettings": {
+          "Categories": {
+            "Exact": "YES",
+            "Narrow": "YES",
+            "Alternative": "YES",
+            "Accessory": "NO",
+            "Broader": "NO"
+          },
+          "BrandOptions": {
+            "WithoutBrands": "YES",
+            "WithAdvertiserBrand": "NO",
+            "WithCompetitorsBrand": "NO"
+          }
+        }
+      }
+    ]
+  },
+  "units": "15/155703/160000"
+}
