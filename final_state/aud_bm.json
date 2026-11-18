@@ -1,0 +1,44 @@
+﻿{
+  "success": true,
+  "data": {
+    "BidModifiers": [
+      {
+        "CampaignId": 716189770,
+        "AdGroupId": 5824076522,
+        "Id": 112135948038,
+        "Level": "AD_GROUP",
+        "Type": "DEMOGRAPHICS_ADJUSTMENT",
+        "DemographicsAdjustment": {
+          "Gender": null,
+          "Age": "AGE_0_17",
+          "BidModifier": 0
+        }
+      },
+      {
+        "CampaignId": 716189770,
+        "AdGroupId": 5824076522,
+        "Id": 112135948039,
+        "Level": "AD_GROUP",
+        "Type": "DEMOGRAPHICS_ADJUSTMENT",
+        "DemographicsAdjustment": {
+          "Gender": null,
+          "Age": "AGE_45_54",
+          "BidModifier": 0
+        }
+      },
+      {
+        "CampaignId": 716189770,
+        "AdGroupId": 5824076522,
+        "Id": 112135948040,
+        "Level": "AD_GROUP",
+        "Type": "DEMOGRAPHICS_ADJUSTMENT",
+        "DemographicsAdjustment": {
+          "Gender": null,
+          "Age": "AGE_55",
+          "BidModifier": 0
+        }
+      }
+    ]
+  },
+  "units": "1/155734/160000"
+}
